@@ -216,7 +216,7 @@ Overall, the Decision Tree model achieved higher performance than KNN in this pr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/patrickaria/Machine-Learning.git
+git clone https://github.com/ariapatrikaki/Machine-Learning.git
 cd "Machine-Learning/Alzheimer’s Disease Diagnosis"
 ```
 
